@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mouhamet Ndiaye</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Javascript** 
 
-- 👯 I’m looking to collaborate on **frontend proyects.**
+- 👯 I’m looking to collaborate on **frontend projects.**
 
 - You can find my portfolio and my Linkedin in my Github account. [https://github.com/mouhametnd](https://github.com/mouhametnd)
 
