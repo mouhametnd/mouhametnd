@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **frontend proyects.**
 
-- in my Github account. Also, you can find my portfolio and my Linkedin in my Github account. [https://github.com/mouhametnd](https://github.com/mouhametnd)
+- 👍 you can find my portfolio and my Linkedin in my Github account. [https://github.com/mouhametnd](https://github.com/mouhametnd)
 
 - 💬 Ask me about **HTML, CSS, SCSS and Javascript**
 
