@@ -1,19 +1,21 @@
 <h1 align="center">Hi 👋, I'm Mouhamet Ndiaye</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 
+
+- 🧠 Tools: **Javasctipt, React, redux/toolkit, react-router, styled-components, SASS, axios and git**
+
 - 🌱 I’m currently learning **TypeScript**
 
 - 👯 I’m looking to collaborate on **open source projects**
-
-- 🧠 Tools **Javasctipt, React, redux/toolkit, react-router ,styled-components, SASS, axios, git**
 
 - 🧱 Welcome to my portfolio [https://mouhametnd.com/](https://mouhametnd.com/)
 
 - 📘 Here You have my Linkedin Profile [https://www.linkedin.com/in/mouhametnd/](https://www.linkedin.com/in/mouhametnd/)
 
+- 📫 How to reach me **ahmetndiaye404@gmail.com**
+
 - 💬 Ask me about **Javascript and React.**
 
-- 📫 How to reach me **ahmetndiaye404@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
