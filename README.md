@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 👯 I’m looking to collaborate on **open source projects**
-
 - 🧱 Welcome to my portfolio [https://mouhametnd.com/](https://mouhametnd.com/)
 
 - 📘 Here You have my Linkedin Profile [https://www.linkedin.com/in/mouhametnd/](https://www.linkedin.com/in/mouhametnd/)
