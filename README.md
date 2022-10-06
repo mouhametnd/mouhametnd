@@ -39,7 +39,7 @@ I’m a passionate self-taught full-stack web developer. I love to build things 
 ### My Portfolio
 
 <a href="https://mouhametnd.com/" target='_blank'>
-<img src='./projects-imgs/portfolio.png' width='100%' >
+<img src='./projects-imgs/portfolio.png' width='100%' maxwidth='350px' >
 </a>
 </div>
 <div>
@@ -47,7 +47,7 @@ I’m a passionate self-taught full-stack web developer. I love to build things 
 ### Full-stack blog app
 
 <a href="https://mouhametnd-blog-app.netlify.app" target='_blank'>
-<img src='./projects-imgs/blog-app-img.webp' width='100%' >
+<img src='./projects-imgs/blog-app-img.webp' width='100%' maxwidth='350px' >
 </a>
 </div>
 <div>
@@ -55,7 +55,7 @@ I’m a passionate self-taught full-stack web developer. I love to build things 
 ### React In-browser markdown editor
 
 <a href="https://mouhametnd-blog-app.netlify.app" target='_blank'>
-<img src='./projects-imgs/in-browser-markdown-editor-img.webp' width='100%' >
+<img src='./projects-imgs/in-browser-markdown-editor-img.webp' width='100%' maxwidth='350px' >
 </a>
 </div>
 <div>
@@ -63,7 +63,7 @@ I’m a passionate self-taught full-stack web developer. I love to build things 
 ### Angular Full-stack blog app
 
 <a href="https://mouhametnd-markdown-editor.netlify.app/" target='_blank'>
-<img src='./projects-imgs/product-feedback-img.png' width='100%' >
+<img src='./projects-imgs/product-feedback-img.png' width='100%' maxwidth='350px' >
 </a>
 </div>
 <div>
@@ -71,10 +71,12 @@ I’m a passionate self-taught full-stack web developer. I love to build things 
 ### React Games app
 
 <a href="https://mouhametnd-games-app.netlify.app/" target='_blank'>
-<img src='./projects-imgs/games-app-img.webp' width='100%' >
+<img src='./projects-imgs/games-app-img.webp' width='100%' maxwidth='350px' >
 </a>
 </div>
 </div>
+
+<br/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mouhametnd&show_icons=true&locale=en&layout=compact" alt="mouhametnd" /></p>
 
